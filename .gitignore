@@ -38,3 +38,4 @@ next-env.d.ts
 .htaccess
 /tmp
 start.mjs
+stderr.log
