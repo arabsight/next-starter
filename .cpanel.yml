@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    # - ~/nodevenv/next.isolab-dz.com/18/bin/npm install
-    # - ~/nodevenv/next.isolab-dz.com/18/bin/npm run build
+    # - ~/nodevenv/__html_root__/__version__/bin/npm install
+    # - ~/nodevenv/__html_root__/__version__/bin/npm run build
